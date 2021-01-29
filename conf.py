@@ -16,8 +16,8 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Your Name"  # (translatable)
-BLOG_TITLE = "Demo Site"  # (translatable)
+BLOG_AUTHOR = "Enrique Puig"  # (translatable)
+BLOG_TITLE = "Probando Nikola Site"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://example.com/"
@@ -25,7 +25,7 @@ SITE_URL = "https://example.com/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "joe@demo.site"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_DESCRIPTION = "ºEsto es una sitio construido con Nikola por Enrique."  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -91,7 +91,7 @@ BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
 # in the default language will be shown instead.
 
 # What is the default language?
-DEFAULT_LANG = "en"
+DEFAULT_LANG = "es"
 
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
@@ -157,7 +157,7 @@ THEME = "bootblog4"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
-THEME_COLOR = '#5670d4'
+THEME_COLOR = '#6670d4'
 
 # Theme configuration. Fully theme-dependent. (translatable)
 # Examples below are for bootblog4.
